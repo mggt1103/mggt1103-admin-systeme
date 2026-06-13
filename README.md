@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Bonjour GitHub
+Laboratoire d'Administration Systeme GitHub
 =======
 # mggt1103-admin-systeme
 facultatif
