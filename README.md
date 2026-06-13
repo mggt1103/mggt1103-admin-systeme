@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+## 📸 Capture du terminal
+
+![Capture terminal](images/capture_terminal.png)<<<<<<< HEAD
 Laboratoire d'Administration Systeme GitHub
 =======
 # mggt1103-admin-systeme
