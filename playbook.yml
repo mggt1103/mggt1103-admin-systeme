@@ -1,0 +1,6 @@
+- name: Test Ansible
+  hosts: serveurs_web
+  tasks:
+    - name: Afficher un message
+      debug:
+        msg: "Ansible fonctionne correctement"
