@@ -1,0 +1,14 @@
+---
+- name: Configuration serveur web (mode simple TP)
+  hosts: serveurs_web
+  gather_facts: no
+
+  tasks:
+
+    - name: Test connexion
+      ping:
+
+    - name: Créer page web
+      copy:
+        content: "<h1>Serveur Web OK - Ansible TP</h1>"
+        dest: /tmp/index.html
