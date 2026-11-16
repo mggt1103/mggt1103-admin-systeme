@@ -1,8 +1,7 @@
-## 📸 Capture du terminal
+﻿# mggt1103-admin-systeme
 
-![Capture terminal](images/capture_terminal.png)<<<<<<< HEAD
-Laboratoire d'Administration Systeme GitHub
-=======
-# mggt1103-admin-systeme
-facultatif
->>>>>>> c4d6132161da007a2a35a3e4485878be04b5fc74
+Laboratoire d'administration système et de pratiques GitHub.
+
+## Capture du terminal
+
+![Capture terminal](images/capture_terminal.png)
